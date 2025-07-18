@@ -1,6 +1,6 @@
 # Daniel-s-Delights
 My mod for 1.12.2
-THIS IS A WORK IN PROGRESS. I HOPE IT IS"T BAD
+THIS IS A WORK IN PROGRESS. I HOPE IT IS'T BAD
 ------
 This is a mod that will add:
 
